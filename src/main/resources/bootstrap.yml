@@ -3,14 +3,4 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:/Users/DevKinetics-Dev-02/Documents/Repos/spring-boot/alds/spring-boot-config-server
-#          uri: https://github.com/aldwindelgado/spring-boot-config-server
-#spring:
-#  profiles:
-#    active: native
-#spring:
-#  cloud:
-#    config:
-#      server:
-#        native:
-#          search-locations: file:///C:/Users/DevKinetics-Dev-02/Documents/Repos/spring-boot/alds/spring-boot-config-server
+          uri: https://github.com/aldwindelgado/spring-boot-config-server
