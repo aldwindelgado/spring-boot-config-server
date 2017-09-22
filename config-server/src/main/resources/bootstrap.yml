@@ -3,5 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: file://Users/DevKinetics-Dev-02/Documents/Repos/spring-boot/alds/spring-boot-config-server
+          uri: file:/C:/Users/DevKinetics-Dev-02/Documents/Repos/spring-boot/alds/spring-boot-config-server/config-server
 #          uri: https://github.com/aldwindelgado/spring-boot-config-server
